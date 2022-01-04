@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[Portfolio](https://iotus.me)
+[Github](https://github.com/ev-98)
+[LinkedIn](https://linkedin.com/in/erce-phillips)
