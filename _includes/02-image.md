@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Image of Devil Jin] (https://www.fightersgeneration.com/nx9/char/deviljin-tekken6-arena-story-artwork.jpg)
