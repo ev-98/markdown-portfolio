@@ -1,1 +1,17 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Based in **Oakland, CA**
+* 
+* Graduated with degree in **Computer Science** from **University of Florida**
+
+* Previous programming language experience:
+  * **Python**
+  * **C++**
+  * **C#**
+  * **Javascript**
+  * **HTML/CSS**
+  * **MERN Stack**
+  * **Git/GitHub**
+
+* Other related Skills::
+  * **Agile scrum experience**
+  * **Git/GitHub**
+  * **Web deployment**
